@@ -20,7 +20,7 @@ git clone https://codeberg.org/SoulEye-sweet/vendor_xiaomi_sm6150-common.git ven
 git clone https://codeberg.org/SoulEye-sweet/vendor_xiaomi_miuicamera-sweet.git vendor/xiaomi/miuicamera-sweet
 
 # Kernel Tree
-git clone https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150.git -b sixteen kernel/xiaomi/sm6150
+git clone https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150.git kernel/xiaomi/sm6150
 
 # Dolby Tree
 git clone https://github.com/SoulEye-sweet/device_oneplus_dolby.git device/oneplus/dolby
